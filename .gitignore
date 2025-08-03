@@ -19,5 +19,3 @@ crash.log
 *.pem
 *.key   
 
-# Ignore provider lock files
-.terraform.lock.hcl
